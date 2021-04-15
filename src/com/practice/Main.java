@@ -21,7 +21,7 @@ public class Main {
     }
     //method to read file
     static ArrayList<String> createList(String fileName) {
-        String path = "C:\\Users\\" + System.getProperty("user.name") + "\\Desktop\\";
+        String path = "C:\\Users\\" + System.getProperty("user.name") + "\\Desktop\\Files\\";
 
         // reading file
         File file = new File(
